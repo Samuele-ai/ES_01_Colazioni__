@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "LondrinaSolid-Regular";
+    src: url(LondrinaSolid-Regular.ttf);
+    font-weight: normal;
+}
+@font-face {
+    font-family: "ITCKabelStdBook";
+    src: url(ITCKabelStdBook.TTF);
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Merienda-Regular";
+    src: url(Merienda-Regular.ttf);
+    font-weight: normal;
+}
+@font-face {
+    font-family: "ITCKabelStdBold";
+    src: url(ITCKabelStdBold.TTF);
+    font-weight: normal;
+}
